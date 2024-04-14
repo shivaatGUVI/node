@@ -1,0 +1,5 @@
+1. -p while using node command (node --help).
+2. REPL (Read, Evaluate, Print, and Loop) using node.
+3. .(load, save, help) in node.
+4. _ to access the last evaluated. 
+5. autocomplete in node REPL.

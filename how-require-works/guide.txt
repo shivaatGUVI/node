@@ -1,0 +1,7 @@
+Steps of require in .js file
+
+- Resolving: - To find the absolute file path of the module.
+- Loading: - The content of the file at the resolved path.
+- Wrapping: - Gives every module it's private scope and what makes require local to every module.
+- Evaluating: - It is what the Virtual Machine (VM) does with the code.
+- Caching: - It is done so that when we require the module again, we repeat all these steps.
